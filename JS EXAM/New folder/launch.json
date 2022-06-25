@@ -1,0 +1,11 @@
+{
+     "configurations": [
+        
+        {
+            "type": "pwa-chrome",
+            "request": "launch",
+            "name": "Open JS.html",
+            "file": "f:\\JS EXAM\\JS.html"
+        }
+    ]
+}
